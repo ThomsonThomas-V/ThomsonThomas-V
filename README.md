@@ -1,7 +1,9 @@
 # Hi, I'm Thomson 👋
-![Bleach](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRnYzBkdXZwNWw4ZG1zdjU2NTFwdDhldzN2ZWNzcGVoN2dic2dicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLYQnbND9gkYU/giphy.gif)
 > [!CAUTION]
 > **Account Recovery in Progress:** I recently lost access to my previous GitHub account. I am currently migrating my core projects and rebuilding my contribution history.
+
+![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmUzc256ODRwY2pmcThzYnF2aTNpYnAxYTlra2l6Mmc0b3E5a3NkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k61nOBRRBMxva/giphy.gif)
+
 
 I am a **Master’s student** specializing in Data Science and Machine Learning. I enjoy building intelligent systems, creating automation tools, and exploring the intersection of technology and photography.
 
