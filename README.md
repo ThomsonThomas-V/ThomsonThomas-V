@@ -44,7 +44,7 @@ Improving my **coding best practices**, **debugging**, and writing **clean, effi
 My journey in **AI and Data Science**, my programming comeback, or my learning roadmap!  
 
 📫 **How to reach me:**  
-📧 **thomsont711@gmail.com**  
+📧 **thomsonthomasoffice@gmail.com**  
 
 ⚡ **Fun fact:**  
 I graduated in **AI and Data Science** without really learning how to code—basically, I majored in **AI** but forgot the **"I" in Implementation**. Now I’m on a **redemption arc**! 😄  
