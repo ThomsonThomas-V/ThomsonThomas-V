@@ -25,3 +25,6 @@ I am a **Master’s student** specializing in Data Science and Machine Learning.
 
 When I'm not coding, I'm usually traveling with my camera. I have a passion for **Street and Architectural Photography**. Currently, I'm documenting my travels across cities like Leipzig.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomsonThomas-V&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&icon_color=00ffcc&layout=compact&langs_count=6&hide=html,css)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ThomsonThomas-V&show_icons=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&icon_color=00ffcc)
