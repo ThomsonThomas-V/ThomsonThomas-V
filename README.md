@@ -1,30 +1,52 @@
-# Hi, I'm Thomson 👋
-> [!CAUTION]
-> **Account Recovery in Progress:** I recently lost access to my previous GitHub account. I am currently migrating my core projects and rebuilding my contribution history.
+# Hi, I'm Thomson Thomas 👋
 
-![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmUzc256ODRwY2pmcThzYnF2aTNpYnAxYTlra2l6Mmc0b3E5a3NkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k61nOBRRBMxva/giphy.gif)
+### Data Science & Machine Learning · Applied AI · Backend Engineering
 
+I'm a Master's student specializing in **Data Science and Machine Learning**. I build practical, inspectable systems—from deterministic AI support workflows to end-to-end machine-learning prototypes—and care about evaluation, safety, and clear technical communication.
 
-I am a **Master’s student** specializing in Data Science and Machine Learning. I enjoy building intelligent systems, creating automation tools, and exploring the intersection of technology and photography.
+- 🔭 Currently building portfolio projects around applied AI and production-minded ML
+- 🧠 Interested in trustworthy AI, computer vision, automation, and data products
+- 🛠️ Comfortable moving from experimentation to APIs, tests, containers, and usable interfaces
+- 📸 Outside technology, I enjoy street and architectural photography
 
-## 🛠️ Technical Arsenal
+## Featured projects
 
-- **Languages:** Python (Proficient), R (Proficient), C++, Go, Java, JavaScript
-- **AI/ML:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, MLflow
-- **Data & Viz:** Pandas, NumPy, SQL (MySQL/Oracle), Matplotlib, Plotly, Power BI
-- **Infrastructure:** Docker, Kubernetes, Git, FastAPI
-- **Other:** LaTeX, Premiere Pro, Windows Terminal
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [**SupportFlow AI**](https://github.com/ThomsonThomas-V/supportflow-ai) | Grounded customer-support prototype with cited knowledge, streaming responses, visible mock tools, confirmation-gated actions, safety checks, and deterministic evaluation. | Python · FastAPI · SSE · TF-IDF · Pytest · Docker |
+| [**Semiconductor Process Digital Twin**](https://github.com/ThomsonThomas-V/semiconductor-process-digital-twin) | End-to-end student portfolio prototype for synthetic semiconductor defect-risk classification, with an API and interactive frontend. | Python · Scikit-learn · FastAPI · React |
 
-## 🚀 Featured Projects
+## Technology toolkit
 
-- **Football Prediction Engine:** A machine learning model that forecasts European match outcomes using team metrics and manager data.
-- **Computer Vision:** Projects involving image processing and architectural analysis.
-- And some small projects learning new things
+**Languages**
 
-## 📸 Beyond the Code
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-When I'm not coding, I'm usually traveling with my camera. I have a passion for **Street and Architectural Photography**. Currently, I'm documenting my travels across cities like Leipzig.
+**Machine learning & data**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomsonThomas-V&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&icon_color=00ffcc&layout=compact&langs_count=6&hide=html,css)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ThomsonThomas-V&show_icons=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&icon_color=00ffcc)
+**Engineering & delivery**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+## How I work
+
+- Start with a clear problem and measurable behavior
+- Keep demos reproducible and credentials out of repositories
+- Build tests, evaluation, and safety boundaries alongside features
+- Document architecture, limitations, and design decisions honestly
